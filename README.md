@@ -1,101 +1,115 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola 👋, Soy Jorge Moranchel</h1></summary>
+  </ul>
 </div>
 
-<h3 align="center">
-  Hola, soy Jorge Moranchel
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Estudiante%20de%20Programación;Siempre%20aprendiendo%20nuevas%20cosas;Apasionado%20por%20la%20tecnología%20💻;Arduino%20y%20JavaFX%20🚀&center=true&width=440&height=45"></a>
-</p>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/JorgeMoranchel" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=JorgeMoranchel.JorgeMoranchel"></a>
-</p>
 
----
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">“Aprender es un pilar importante para mí.”</h2></summary>
+  </ul>
+</div>
 
-- 👨‍💻 Soy estudiante de **programación** en un modelo de educación dual en **Ambikon**.  
+
+<!--Intro start-->
+## 👨‍🎓 Sobre mí
+- 🎓 Actualmente soy estudiante en la **Universidad Tecnológica Emiliano Zapata (UTEZ)** en el área de **Desarrollo de Software**.  
+- 💼 Anteriormente participé en un modelo de **educación dual en la empresa Ambikon**, donde adquirí experiencia en **redes, programación y trabajo en proyectos de software reales**.  
+- 🌱 Siempre busco mejorar mis habilidades y aprender nuevas tecnologías.    
 - 🌱 Actualmente aprendiendo estructuras de datos en C++ y Java, bases de datos y proyectos con Arduino.  
 - 💬 Pregúntame sobre mis proyectos en **C, Java, Python o Arduino**.  
 - 🚀 Me interesa crecer como desarrollador y colaborar en proyectos de software real.  
+<!--Intro end-->
 
----
 
-## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Lenguajes
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
 
-#### 🔧 Herramientas
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/ArduinoIDE-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+<td width="50%" align="center">
 
----
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
-## 📊 Estadísticas de Perfil
-
+<!--- trophy (start) -->
 <div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
-![](https://github-readme-stats.vercel.app/api?username=JorgeMoranchel&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
 
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">“Tecnologías que sé usar y de las que tengo conocimiento”👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,robloxstudio,sublime,ubuntu,vscode,php,notion,mysql,maven,linux,kotlin,java,idea,html,github,discord,css,c,arduino,autocadandroidstudio&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Contactame🤝</h2></summary>
+  </ul>
 </div>
 
-### 💳 Resumen del Perfil
-
-<div align=center>
+<!--icons and links-->
+<p align="center">
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JorgeMoranchel&theme=github_dark)
-  
-</div>
+</p>
 
-### ⏱ Racha de Contribuciones
 
-<div align=center>
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JorgeMoranchel&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
-### 📈 Actividad
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JorgeMoranchel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Lenguajes más usados
-
-<div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=JorgeMoranchel&show_icons=true&locale=es&layout=compact&theme=radical)]()
-  
-</div>
-
-### 🏆 Trofeos
-
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JorgeMoranchel&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
-
-### 🔗 &nbsp;Contacto
-
+<!--profile visit count-->
 <div align="center">
-<a href="mailto:tu_correo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/tuusuario/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
 </div>
 
----
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
